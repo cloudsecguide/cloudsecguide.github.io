@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+
+pages-list:       
+  Mission: '/about/mission'
+  Guide: '/provider-comparison/guide'
+  Example: '/examples/concepts/container-runtime-monitoring'
