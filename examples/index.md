@@ -1,0 +1,4 @@
+---
+title: Examples
+---
+Some examples
