@@ -1,3 +1,7 @@
+---
+title: Mission
+---
+
 CloudSecGuide's mission is to make securing cloud environments easier in the cloud-agnostic age.
 
 Applications designed to be cloud-agnostic are built in a way to easily deploy to multiple cloud providers. This has made it
