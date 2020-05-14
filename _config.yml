@@ -4,11 +4,11 @@ navbar:
     url: https://cloudsecguide.github.io/
     title: Home
   - About:
-    url: https://cloudsecguide.github.io/About
+    url: https://cloudsecguide.github.io/about
     title: About
   - Comparison Guide:
     url: https://cloudsecguide.github.io/provider-comparison/guide
     title: Comparison Guide
   - Examples:
-    url: https://cloudsecguide.github.io/Examples
+    url: https://cloudsecguide.github.io/examples
     title: Examples
