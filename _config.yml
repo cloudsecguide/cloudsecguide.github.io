@@ -1,1 +1,10 @@
 theme: jekyll-theme-cayman
+navbar:
+  - Home
+    url: https://cloudsecguide.github.io/
+  - About
+    url: https://cloudsecguide.github.io/About
+  - Comparison Guide
+    url: https://cloudsecguide.github.io/provider-comparison/guide
+  - Examples
+    url: https://cloudsecguide.github.io/Examples
