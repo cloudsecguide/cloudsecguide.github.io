@@ -1,2 +1,4 @@
-<html><head><title>Container Runtime Monitoring</title></head></html>
+---
+title: Container Runtime Monitoring
+---
 This will show an example of how to implement cloud-agnostic container runtime monitoring.
